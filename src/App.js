@@ -17,6 +17,8 @@ export default function App() {
         <p>Junior Andres López Aguilar</p>
         <p>Modelos de Programación de Sistemas</p>
         <p>Proyecto Final</p>
+        <p><img src="https://icons-for-free.com/iconfiles/png/128/part+1+github-1320568339880199515.png" alt="Girl in a jacket" width="32" height="32"></img> Repo: 
+        <a href="https://github.com/andresaguilar1125/uamModelosSistemas"> github.com/andresaguilar1125/uamModelosSistemas</a> </p>
       </div>
 
       {/* Accordion bootstrap */}
